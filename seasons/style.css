@@ -1,0 +1,42 @@
+.one{
+    text-align: center;
+}
+.mdfour{
+    width: 100%;
+    height: 85vh;
+}
+.xsfour{
+    width: 100%;
+    height: 85vh;
+}
+.two{
+    margin-top: 20px;
+}
+.two button{
+    margin-left: 10px;
+    border-radius: 8px;
+}
+.b1{
+    background-color: green;
+    border-radius: 8px;
+    color: white;
+    border-color: green;
+}
+.b2{
+    background-color: rgb(62, 228, 62);
+    border-radius: 8px;
+    color: white;
+    border-color: rgb(62, 228, 62);
+}
+.b3{
+    background-color: rgba(190, 53, 38, 0.835);
+    border-radius: 8px;
+    color: white;
+    border-color: rgba(190, 53, 38, 0.835);
+}
+.b4{
+    background-color: rgb(125, 163, 240);
+    border-radius: 8px;
+    color: white;
+    border-color: rgb(125, 163, 240);
+}
