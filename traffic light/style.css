@@ -1,0 +1,42 @@
+.one{
+    background-color: lightblue;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    margin-top: 50px;
+    border: solid lightblue;
+    border-radius: 10px;
+}
+.two{
+    background-color: black;
+    width: 100px;
+    height: 250px;
+    margin: 120px 50px 100px 250px;
+    border-radius: 30px;
+}
+.two button{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+    border-radius: 50px;
+    background-color: grey;
+}
+.one_two{
+    margin-top: 110px;
+    width:50px;
+    
+}
+.one_two button{
+    margin-left: 100px;
+    margin-top: 40px;
+    border-radius: 10px;
+    height: 40px;
+    background-color: black;
+    color: white;
+}
+.tf{
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
